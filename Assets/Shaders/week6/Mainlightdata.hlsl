@@ -3,7 +3,7 @@
 #ifndef SHADERGRAPH_PREVIEW
 #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl"
 #endif
-void MainLightData_float(
+void Mainlightdata_float(
 out float3 Direction,
 out float3 Color)
 {
